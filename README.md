@@ -1,6 +1,7 @@
 ### Hi there 👋 ![VISITS](https://badges.pufler.dev/visits/IvanLuLyf/IvanLuLyf?style=flat-square&logo=github&color=blue&label=Github%20Visits)
 
-![STATS](https://github-readme-stats.vercel.app/api?username=IvanLuLyf&show_icons=true)
+![STATS](https://github-readme-stats.vercel.app/api?username=IvanLuLyf&show_icons=true&hide=issues)
+![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanLuLyf&layout=compact)
 
 <!--
 **IvanLuLyf/IvanLuLyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
